@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/note-app-web:latest
+          tags: ghcr.io/aslis07/note-app-web:latest
